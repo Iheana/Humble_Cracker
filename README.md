@@ -13,6 +13,6 @@ pip install bs4
 
 git clone https://github.com/Iheana/Humble_Cracker.git
 
-cd DrunkCracker
+cd Humble_Cracker
 
-python drunkCracker_enc_enc.py
+python Humble_Cracker_enc.py
