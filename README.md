@@ -15,4 +15,4 @@ git clone https://github.com/Iheana/Humble_Cracker.git
 
 cd Humble_Cracker
 
-python Humble_Cracker_enc.py
+python Humble_CrackerV2_enc.py
